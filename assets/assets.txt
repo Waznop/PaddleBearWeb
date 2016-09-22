@@ -7,7 +7,7 @@ t:font.fnt:23900:application/unknown
 i:font.png:3209:image/png
 a:gameover.wav:76868:audio/x-wav
 i:landSheet.png:22438:image/png
-a:noclick.ogg:10855:application/unknown
+a:noclick.wav:14794:audio/x-wav
 a:paddling1.ogg:32201:application/unknown
 a:paddling2.ogg:27995:application/unknown
 i:particle.png:1821:image/png
